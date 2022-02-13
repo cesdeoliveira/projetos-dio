@@ -1,4 +1,4 @@
-package exercicios.saudacao;
+package exercicios;
 
 import java.time.LocalTime;
 
